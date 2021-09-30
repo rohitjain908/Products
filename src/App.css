@@ -1,0 +1,23 @@
+.button{
+  background-color: green;
+  color:white;
+  padding:5px 15px;
+  margin:5px 5px;
+  /* color:yellowgreen */
+}
+
+.label{
+  font-size: 18px;
+  font-weight: bolder;
+  color:tomato;
+}
+
+.input{
+  border-radius: 6px;
+  border-color:hotpink
+
+}
+
+.horizontal{
+  color:pink;
+}
